@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# WiFi Voice Controlled Robot
+This WiFi Voice Controlled Robot takes commands from a NodeMCU to move the robot in a certain direction. The robot consists of two wheels, that are driven by 2 DC motors (LEFT and RIGHT motor) that allows for the robot to move forward, backward, left, right, and stop. The Voice Input by the user is translated from the Android device to move the robot. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Sindhu D | Monta Vista High School | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
@@ -19,6 +19,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was setting up the H Bridge by wiring all the components from the H Bridge to the Arduino, Battery Pack, and DC Motors. I began with using alligator clips which used jumper wires to connect the pinholes to the copper tabs of the DC motors. The Battery Pack included a black and a red wire, which connected to the ground and 12 volt of the H Bridge. While fitting the battery wires into the H Bridge, the wire was too thin to fit into the slot, so I had to manually strip the wire to ensure a tight fit. I also connected 4 male headed wires, a ground wire, and a 5 volt wire from the H Bridge to the Arduino. To code the motor commands, I used a digitalWrite function with a combination of high or low settings to prompt the motors to move forward, backward, left, right, and stop.  
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1655496026/video_to_markdown/images/youtube--5IGHZCkltac-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5IGHZCkltac "First Milestone")
