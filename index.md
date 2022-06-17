@@ -21,6 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up the H Bridge by wiring all the components from the H Bridge to the Arduino, Battery Pack, and DC Motors. I began with using alligator clips which used jumper wires to connect the pinholes to the copper tabs of the DC motors. The Battery Pack included a black and a red wire, which connected to the ground and 12 volt of the H Bridge. While fitting the battery wires into the H Bridge, the wire was too thin to fit into the slot, so I had to manually strip the wire to ensure a tight fit. I also connected 4 male headed wires, a ground wire, and a 5 volt wire from the H Bridge to the Arduino. To code the motor commands, I used a digitalWrite function with a combination of high or low settings to prompt the motors to move forward, backward, left, right, and stop.  
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
-
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1655496026/video_to_markdown/images/youtube--5IGHZCkltac-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5IGHZCkltac "First Milestone")
