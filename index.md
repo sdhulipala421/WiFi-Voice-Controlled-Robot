@@ -1,5 +1,5 @@
 ﻿# WiFi Voice Controlled Robot
-This WiFi Voice Controlled Robot takes commands from a NodeMCU to move the robot in a certain direction. The robot consists of two wheels, that are driven by 2 DC motors (LEFT and RIGHT motor) that allows for the robot to move forward, backward, left, right, and stop. The Voice Input by the user is translated from the Android device to move the robot. 
+This WiFi Voice Controlled Robot takes commands from a NodeMCU to move the robot in a certain direction. The robot consists of four wheels, that are driven by 4 DC motors (LEFT and RIGHT motors) that allows for the robot to move forward, backward, left, right, and stop. The Voice Input by the user is translated from the Android device to move the robot. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -13,9 +13,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was building my entire robot body by attaching all four motors to the car chassis. I connected the front two motors to the H Bridge using alligator clips, and the back two motors using a technique of soldering. By soldering, I was able to connect the copper tabs of the DC motors to the jumper wire which inserted into the H Bridge. An obstacle I faced was when soldering my first motor, I ripped out a chunk of the copper tab which made it difficult to connect the copper tab to the jumper wire. Because of this, I had to re-solder the wire to a minimal piece of copper tab to connect it to the H Bridge. I also began on developing my app this week which includes 5 different functions: forward, reverse, left, right, and stop. These commands prompt the robot to move in all these designated directions. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656358939/video_to_markdown/images/youtube--oa6gBuU8fng-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/oa6gBuU8fng "Second Milestone")
 # First Milestone
   
 
