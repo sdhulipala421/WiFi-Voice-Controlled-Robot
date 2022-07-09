@@ -27,7 +27,7 @@ My first milestone was setting up the H Bridge by wiring all the components from
 
 ## Code
 ```cpp
-<WiFiClient client;
+WiFiClient client;
 WiFiServer server(80);
 const char* ssid = "Srinilayam";
 const char* password = "niftyocean378";
