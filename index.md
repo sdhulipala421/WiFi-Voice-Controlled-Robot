@@ -5,7 +5,7 @@ This WiFi Voice Controlled Robot takes commands from a NodeMCU to move the robot
 |:--:|:--:|:--:|:--:|
 | Sindhu D | Monta Vista High School | Software Engineering | Incoming Senior
 
-![Headstone Image](https://user-images.githubusercontent.com/292570339_821212712598233_3879414798837582761_n.jpg)
+![Headstone Image](https://raw.githubusercontent.com/sdhulipala421/WiFi-Voice-Controlled-Robot/main/292570339_821212712598233_3879414798837582761_n.jpg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
