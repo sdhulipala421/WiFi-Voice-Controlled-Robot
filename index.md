@@ -5,7 +5,7 @@ This WiFi Voice Controlled Robot takes commands from a NodeMCU to move the robot
 |:--:|:--:|:--:|:--:|
 | Sindhu D | Monta Vista High School | Software Engineering | Incoming Senior
 
-![Headstone Image](https://raw.githubusercontent.com/sdhulipala421/WiFi-Voice-Controlled-Robot/main/292570339_821212712598233_3879414798837582761_n.jpg)
+![Headstone Image](https://raw.githubusercontent.com/sdhulipala421/WiFi-Voice-Controlled-Robot/main/Screen%20Shot%202022-07-09%20at%203.23.54%20AM.png)
 
 ![Parts Info](https://raw.githubusercontent.com/sdhulipala421/WiFi-Voice-Controlled-Robot/main/Screen%20Shot%202022-07-09%20at%203.14.59%20AM.png)
   
