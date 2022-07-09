@@ -10,7 +10,7 @@ This WiFi Voice Controlled Robot takes commands from a NodeMCU to move the robot
 ![Parts Info](https://raw.githubusercontent.com/sdhulipala421/WiFi-Voice-Controlled-Robot/main/Screen%20Shot%202022-07-09%20at%203.14.59%20AM.png)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone involved completing the voice control app and connecting it to my robot using an IP address. The app contains 5 block tabs which are programmed to function in a 3 step process: sending a command, creating an "echo" to the user, and outputing a sound from the android device. Some challenges I faced were that the robot was not receiving enough power from the battery pack, so I had to debug some hardware and identify the issue which was the ground and 12 volt wire were disconnecting often from the H Bridge. Once I was able to tighten the connection and connect it to my app, the robot began to work in full function. 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657362025/video_to_markdown/images/youtube--nS1Xyf7iYL4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/nS1Xyf7iYL4 "Final Milestone")
 
